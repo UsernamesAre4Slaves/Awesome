@@ -1,0 +1,904 @@
+Tree Cricket List 0524
+
+    Here's a list of 50 of the biggest global tech companies, not in any particular order:
+
+    Apple Inc.
+    Microsoft Corporation
+    Alphabet Inc. (Google)
+    Amazon.com Inc.
+    Facebook, Inc. (now Meta Platforms, Inc.)
+    Samsung Electronics Co., Ltd.
+    Tencent Holdings Limited
+    Alibaba Group Holding Limited
+    Intel Corporation
+    Cisco Systems, Inc.
+    Oracle Corporation
+    IBM (International Business Machines Corporation)
+    NVIDIA Corporation
+    Dell Technologies Inc.
+    Qualcomm Incorporated
+    SAP SE
+    Adobe Inc.
+    Accenture plc
+    Uber Technologies, Inc.
+    Netflix, Inc.
+    Salesforce.com, Inc.
+    PayPal Holdings, Inc.
+    Twitter, Inc.
+    Zoom Video Communications, Inc.
+    Airbnb, Inc.
+    Spotify Technology S.A.
+    Xiaomi Corporation
+    Snap Inc.
+    Pinterest, Inc.
+    Shopify Inc.
+    Square, Inc.
+    Lyft, Inc.
+    Palantir Technologies Inc.
+    Workday, Inc.
+    Slack Technologies, Inc.
+    Electronic Arts Inc.
+    Activision Blizzard, Inc.
+    Intel Corporation
+    Broadcom Inc.
+    Micron Technology, Inc.
+    Advanced Micro Devices, Inc. (AMD)
+    Texas Instruments Incorporated
+    Nokia Corporation
+    Sony Corporation
+    Panasonic Corporation
+    Toshiba Corporation
+    LG Electronics Inc.
+    HP Inc.
+    Canon Inc.
+    Fujitsu Limited
+
+    Here's a list of 50 of the biggest global banks, not in any particular order:
+
+    JPMorgan Chase & Co.
+    Bank of America Corporation
+    Industrial and Commercial Bank of China Limited (ICBC)
+    China Construction Bank Corporation (CCB)
+    Agricultural Bank of China Limited (ABC)
+    Wells Fargo & Company
+    Citigroup Inc.
+    HSBC Holdings plc
+    Mitsubishi UFJ Financial Group, Inc. (MUFG)
+    Bank of China Limited
+    Goldman Sachs Group, Inc.
+    Morgan Stanley
+    BNP Paribas SA
+    Barclays plc
+    Banco Santander, S.A.
+    Deutsche Bank AG
+    Credit Suisse Group AG
+    Société Générale S.A.
+    Sumitomo Mitsui Financial Group, Inc. (SMFG)
+    Mizuho Financial Group, Inc.
+    UBS Group AG
+    The Bank of Nova Scotia (Scotiabank)
+    The Toronto-Dominion Bank (TD Bank)
+    The Royal Bank of Canada (RBC)
+    Commonwealth Bank of Australia (CBA)
+    National Australia Bank Limited (NAB)
+    Westpac Banking Corporation (Westpac)
+    Banco Bradesco S.A.
+    Itaú Unibanco Holding S.A.
+    Banco do Brasil S.A.
+    ING Groep N.V.
+    Credit Agricole Group
+    UniCredit S.p.A.
+    Nordea Bank Abp
+    Standard Chartered PLC
+    China Merchants Bank Co., Ltd.
+    China Minsheng Banking Corp., Ltd.
+    The Bank of Communications Co., Ltd.
+    PNC Financial Services Group, Inc.
+    TD Ameritrade Holding Corporation
+    The Charles Schwab Corporation
+    Australian and New Zealand Banking Group Limited (ANZ)
+    Banco Bilbao Vizcaya Argentaria, S.A. (BBVA)
+    Bank of Montreal (BMO)
+    The Hongkong and Shanghai Banking Corporation Limited (HSBC)
+    National Bank of Canada (NBC)
+    Intesa Sanpaolo S.p.A.
+    China CITIC Bank Corporation Limited
+    Industrial Bank Co., Ltd.
+    China Everbright Bank Co., Ltd.
+
+    Here's a list of 50 of the biggest military contractors, not in any particular order:
+
+    Lockheed Martin Corporation
+    Boeing Company
+    Raytheon Technologies Corporation
+    Northrop Grumman Corporation
+    General Dynamics Corporation
+    BAE Systems plc
+    Airbus SE
+    L3Harris Technologies, Inc.
+    Leonardo S.p.A.
+    Thales Group
+    SAIC (Science Applications International Corporation)
+    Huntington Ingalls Industries, Inc.
+    United Technologies Corporation (now part of Raytheon Technologies)
+    Harris Corporation (now part of L3Harris Technologies)
+    Rheinmetall AG
+    Rolls-Royce Holdings plc
+    BAE Systems, Inc.
+    General Electric Company
+    KBR, Inc.
+    Elbit Systems Ltd.
+    Kratos Defense & Security Solutions, Inc.
+    Leidos Holdings, Inc.
+    Booz Allen Hamilton Holding Corporation
+    Fluor Corporation
+    CACI International Inc.
+    Textron Inc.
+    Babcock International Group plc
+    Serco Group plc
+    Huntington Ingalls Industries, Inc.
+    Cubic Corporation
+    VT Group (formerly VT Group plc)
+    Navantia
+    Israel Aerospace Industries Ltd. (IAI)
+    Huntington Ingalls Industries, Inc.
+    Harris Corporation (now part of L3Harris Technologies)
+    Vectrus, Inc.
+    ManTech International Corporation
+    Mercury Systems, Inc.
+    CAE Inc.
+    Meggitt PLC
+    OSI Systems, Inc.
+    Perspecta Inc.
+    Parsons Corporation
+    IAI (Israel Aerospace Industries Ltd.)
+    Alion Science and Technology Corporation
+    L3 Technologies, Inc. (now part of L3Harris Technologies)
+    AeroVironment, Inc.
+    QinetiQ Group plc
+    Oshkosh Corporation
+    AM General LLC
+
+    Here's a list of 50 global government agencies from various countries:
+
+    National Aeronautics and Space Administration (NASA) - United States
+    Central Intelligence Agency (CIA) - United States
+    Federal Bureau of Investigation (FBI) - United States
+    National Security Agency (NSA) - United States
+    Department of Defense (DoD) - United States
+    United States Secret Service (USSS) - United States
+    Department of Homeland Security (DHS) - United States
+    Government Communications Headquarters (GCHQ) - United Kingdom
+    Secret Intelligence Service (MI6) - United Kingdom
+    Ministry of Defence (MoD) - United Kingdom
+    MI5 (The Security Service) - United Kingdom
+    Government of Canada Communications Security Establishment (CSE) - Canada
+    Royal Canadian Mounted Police (RCMP) - Canada
+    Canadian Security Intelligence Service (CSIS) - Canada
+    Australian Security Intelligence Organisation (ASIO) - Australia
+    Australian Signals Directorate (ASD) - Australia
+    Australian Federal Police (AFP) - Australia
+    Defence Science and Technology Group (DSTG) - Australia
+    Bundesnachrichtendienst (BND) - Germany
+    Federal Intelligence Service (FIS) - Germany
+    Federal Office for the Protection of the Constitution (BfV) - Germany
+    Ministry of State Security (MSS) - China
+    Ministry of National Defense (MND) - China
+    Public Security Bureau (PSB) - China
+    State Administration for Science, Technology and Industry for National Defense (SASTIND) - China
+    Federal Security Service (FSB) - Russia
+    Foreign Intelligence Service (SVR) - Russia
+    Main Intelligence Directorate (GRU) - Russia
+    Ministry of Defence (MOD) - Russia
+    Mossad - Israel
+    Shin Bet (Israel Security Agency) - Israel
+    Ministry of Defense (MOD) - Israel
+    Research and Analysis Wing (RAW) - India
+    Intelligence Bureau (IB) - India
+    Defense Intelligence Agency (DIA) - India
+    Ministry of Home Affairs (MHA) - India
+    Direction Générale de la Sécurité Intérieure (DGSI) - France
+    Direction Générale de la Sécurité Extérieure (DGSE) - France
+    Direction du Renseignement Militaire (DRM) - France
+    Ministry of Defence (MoD) - France
+    Italian Intelligence and Security Services (AISE and AISI) - Italy
+    Carabinieri - Italy
+    Guardia di Finanza - Italy
+    Australian Defence Intelligence Organisation (DIO) - Australia
+    Government Communications Security Bureau (GCSB) - New Zealand
+    New Zealand Security Intelligence Service (NZSIS) - New Zealand
+    Ministry of Defence (MoD) - New Zealand
+    National Intelligence Agency (NIA) - Nigeria
+    Department of State Security (DSS) - Nigeria
+    Nigerian Defence Intelligence Agency (DIA) - Nigeria
+
+    Here's a list of 50 global power plants:
+
+    Three Gorges Dam - China (Hydropower)
+    Itaipu Dam - Brazil/Paraguay (Hydropower)
+    Grand Coulee Dam - United States (Hydropower)
+    Hoover Dam - United States (Hydropower)
+    Belo Monte Dam - Brazil (Hydropower)
+    Sihwa Lake Tidal Power Station - South Korea (Tidal Power)
+    Longyangxia Dam Solar Park - China (Solar Power)
+    Tengger Desert Solar Park - China (Solar Power)
+    Noor Abu Dhabi Solar Power Plant - UAE (Solar Power)
+    Ivanpah Solar Power Facility - United States (Solar Power)
+    Nanticoke Generating Station - Canada (Coal Power)
+    Taichung Power Plant - Taiwan (Coal Power)
+    Bełchatów Power Station - Poland (Coal Power)
+    Kendal Power Station - South Africa (Coal Power)
+    Hwange Thermal Power Station - Zimbabwe (Coal Power)
+    Chernobyl Nuclear Power Plant - Ukraine (Nuclear Power)
+    Fukushima Daiichi Nuclear Power Plant - Japan (Nuclear Power)
+    Kashiwazaki-Kariwa Nuclear Power Plant - Japan (Nuclear Power)
+    Palo Verde Nuclear Generating Station - United States (Nuclear Power)
+    Cattenom Nuclear Power Plant - France (Nuclear Power)
+    Torness Nuclear Power Station - United Kingdom (Nuclear Power)
+    Sizewell Nuclear Power Stations - United Kingdom (Nuclear Power)
+    Dungeness Nuclear Power Station - United Kingdom (Nuclear Power)
+    Leningrad Nuclear Power Plant - Russia (Nuclear Power)
+    Temelin Nuclear Power Station - Czech Republic (Nuclear Power)
+    Indian Point Energy Center - United States (Nuclear Power)
+    Diablo Canyon Power Plant - United States (Nuclear Power)
+    Ginna Nuclear Generating Station - United States (Nuclear Power)
+    Vogtle Electric Generating Plant - United States (Nuclear Power)
+    Kashiwazaki-Kariwa Nuclear Power Plant - Japan (Nuclear Power)
+    Koeberg Nuclear Power Station - South Africa (Nuclear Power)
+    Loviisa Nuclear Power Plant - Finland (Nuclear Power)
+    Heysham Nuclear Power Stations - United Kingdom (Nuclear Power)
+    Olkiluoto Nuclear Power Plant - Finland (Nuclear Power)
+    Hinkley Point Nuclear Power Stations - United Kingdom (Nuclear Power)
+    Brown's Ferry Nuclear Plant - United States (Nuclear Power)
+    Salem Nuclear Generating Station - United States (Nuclear Power)
+    Palo Verde Nuclear Generating Station - United States (Nuclear Power)
+    Civaux Nuclear Power Plant - France (Nuclear Power)
+    Daya Bay Nuclear Power Plant - China (Nuclear Power)
+    Lamma Power Station - Hong Kong (Natural Gas Power)
+    Sabiya Power Station - Kuwait (Natural Gas Power)
+    Hazira Gas Power Plant - India (Natural Gas Power)
+    Hadera Power Plant - Israel (Natural Gas Power)
+    Sabine Pass LNG Terminal - United States (Liquefied Natural Gas Terminal)
+    Barakah Nuclear Power Plant - UAE (Nuclear Power)
+    La Rance Tidal Power Station - France (Tidal Power)
+    Orkuveita Reykjavikur - Iceland (Geothermal Power)
+    Hellisheiði Power Station - Iceland (Geothermal Power)
+    Geysers Geothermal Complex - United States (Geothermal Power)
+
+    Here's a list of 50 global world leaders as of 2022: (Apologies some failed agendas like to repeat)
+    
+    Joe Biden - President of the United States
+    Xi Jinping - General Secretary of the Communist Party of China and President of China
+    Vladimir Putin - President of Russia
+    Boris Johnson - Prime Minister of the United Kingdom
+    Emmanuel Macron - President of France
+    Angela Merkel - Chancellor of Germany
+    Narendra Modi - Prime Minister of India
+    Yoshihide Suga - Prime Minister of Japan (as of January 2022, since replaced by Fumio Kishida in October 2021)
+    Moon Jae-in - President of South Korea
+    Justin Trudeau - Prime Minister of Canada
+    Scott Morrison - Prime Minister of Australia
+    Recep Tayyip Erdoğan - President of Turkey
+    Jair Bolsonaro - President of Brazil
+    Andrés Manuel López Obrador - President of Mexico
+    Hassan Rouhani - President of Iran (as of January 2022, since replaced by Ebrahim Raisi in August 2021)
+    Sheikh Hasina - Prime Minister of Bangladesh
+    Imran Khan - Prime Minister of Pakistan
+    Benjamin Netanyahu - Prime Minister of Israel (as of January 2022, since replaced by Naftali Bennett in June 2021)
+    Jacinda Ardern - Prime Minister of New Zealand
+    Reuven Rivlin - President of Israel (as of January 2022, since replaced by Isaac Herzog in July 2021)
+    Nicos Anastasiades - President of Cyprus
+    Nguyen Phu Trong - General Secretary of the Communist Party of Vietnam
+    Andrzej Duda - President of Poland
+    Volodymyr Zelensky - President of Ukraine
+    Ibrahim Mohamed Solih - President of the Maldives
+    Filipe Nyusi - President of Mozambique
+    Cyril Ramaphosa - President of South Africa
+    Andrés Manuel López Obrador - President of Mexico
+    Ashraf Ghani - President of Afghanistan (as of January 2022, since replaced by Taliban leadership in August 2021)
+    Gotabaya Rajapaksa - President of Sri Lanka
+    Kais Saied - President of Tunisia
+    Miguel Díaz-Canel - President of Cuba
+    Nicolás Maduro - President of Venezuela
+    Alexander Lukashenko - President of Belarus
+    Alberto Fernández - President of Argentina
+    Rodrigo Duterte - President of the Philippines
+    Sheikh Khalifa bin Zayed Al Nahyan - President of the United Arab Emirates
+    Vladimir Putin - President of Russia
+    Aleksandar Vučić - President of Serbia
+    Paul Kagame - President of Rwanda
+    Rodrigo Duterte - President of the Philippines
+    Ashraf Ghani - President of Afghanistan (as of January 2022, since replaced by Taliban leadership in August 2021)
+    Mahamadou Issoufou - President of Niger (as of January 2022, since replaced by Mohamed Bazoum in April 2021)
+    Borut Pahor - President of Slovenia
+    Aleksandar Vučić - President of Serbia
+    Moon Jae-in - President of South Korea
+    Andrés Manuel López Obrador - President of Mexico
+    Sebastián Piñera - President of Chile
+    Andrés Manuel López Obrador - President of Mexico
+    Vladimir Putin - President of Russia
+
+    Here are 50 global media outlets from various countries and regions:
+
+    CNN (Cable News Network) - United States
+    BBC (British Broadcasting Corporation) - United Kingdom
+    The New York Times - United States
+    The Guardian - United Kingdom
+    Al Jazeera - Qatar
+    Reuters - United Kingdom
+    The Washington Post - United States
+    Associated Press (AP) - United States
+    Fox News - United States
+    NBC News - United States
+    ABC News - United States
+    CBS News - United States
+    Bloomberg - United States
+    Financial Times - United Kingdom
+    The Wall Street Journal - United States
+    The Economist - United Kingdom
+    USA Today - United States
+    National Public Radio (NPR) - United States
+    Time Magazine - United States
+    CNN International - United States
+    France 24 - France
+    Deutsche Welle (DW) - Germany
+    The Independent - United Kingdom
+    HuffPost - United States
+    The Times - United Kingdom
+    The Telegraph - United Kingdom
+    Le Monde - France
+    The Straits Times - Singapore
+    Nikkei Asian Review - Japan
+    Xinhua News Agency - China
+    China Daily - China
+    The Hindu - India
+    NDTV (New Delhi Television Limited) - India
+    The Sydney Morning Herald - Australia
+    The Globe and Mail - Canada
+    CBC (Canadian Broadcasting Corporation) - Canada
+    The Toronto Star - Canada
+    La Repubblica - Italy
+    El País - Spain
+    The Japan Times - Japan
+    Asahi Shimbun - Japan
+    The South China Morning Post - Hong Kong
+    The Korea Herald - South Korea
+    Arab News - Saudi Arabia
+    The Times of Israel - Israel
+    Haaretz - Israel
+    Africa News - Pan-African
+    BBC World Service - United Kingdom
+    CNBC - United States
+    ESPN (Entertainment and Sports Programming Network) - United States
+
+    Here are 50 global religious institutions from various faiths and denominations:
+
+    The Vatican (Holy See) - Catholicism
+    Church of England (Anglican Communion) - Christianity
+    Eastern Orthodox Church - Christianity
+    Lutheran World Federation - Christianity
+    United Methodist Church - Christianity
+    Presbyterian Church (U.S.A.) - Christianity
+    Southern Baptist Convention - Christianity
+    Seventh-day Adventist Church - Christianity
+    World Council of Churches - Christianity
+    Evangelical Lutheran Church in America (ELCA) - Christianity
+    The Salvation Army - Christianity
+    Orthodox Church in America - Christianity
+    Coptic Orthodox Church - Christianity
+    Soka Gakkai International (SGI) - Buddhism
+    Islamic Society of North America (ISNA) - Islam
+    Al-Azhar University - Islam
+    Muslim World League (MWL) - Islam
+    World Assembly of Muslim Youth (WAMY) - Islam
+    World Islamic Mission - Islam
+    Hindu American Foundation (HAF) - Hinduism
+    Art of Living Foundation - Hinduism
+    Baha'i International Community - Baha'i Faith
+    United Synagogue of Conservative Judaism - Judaism
+    Union for Reform Judaism (URJ) - Judaism
+    Chabad-Lubavitch Movement - Judaism
+    World Jewish Congress (WJC) - Judaism
+    Sikh Council UK - Sikhism
+    Akal Takht - Sikhism
+    Jain World - Jainism
+    International Society for Krishna Consciousness (ISKCON) - Hinduism
+    The Church of Jesus Christ of Latter-day Saints (LDS Church) - Christianity
+    Zoroastrian Trust Funds of Europe - Zoroastrianism
+    International Shinto Foundation - Shintoism
+    Buddhist Association of China - Buddhism
+    Evangelical Church of West Africa - Christianity
+    Council of Anglican Provinces of Africa (CAPA) - Christianity
+    World Federation of Methodist and Uniting Church Women - Christianity
+    The Episcopal Church - Christianity
+    World Hindu Council of America (VHPA) - Hinduism
+    Buddhist Churches of America - Buddhism
+    Evangelical Presbyterian Church of Ghana - Christianity
+    Muslim Council of Britain - Islam
+    Lutheran World Relief - Christianity
+    International Association for Religious Freedom (IARF) - Interfaith
+    The World Fellowship of Buddhists (WFB) - Buddhism
+    World Alliance of Reformed Churches - Christianity
+    International Buddhist Confederation - Buddhism
+    Islamic Educational, Scientific and Cultural Organization (ISESCO) - Islam
+    International Association of Scientologists (IAS) - Scientology
+    Supreme Council of the Universal White Brotherhood - Esoteric Christianity
+
+    Here are 50 global internet service providers (ISPs) from various regions around the world:
+
+    Comcast (Xfinity) - United States
+    AT&T - United States
+    Verizon Communications - United States
+    Charter Communications (Spectrum) - United States
+    China Telecom - China
+    China Unicom - China
+    China Mobile - China
+    NTT Communications - Japan
+    SoftBank Corp. - Japan
+    KDDI Corporation - Japan
+    SK Broadband - South Korea
+    KT Corporation - South Korea
+    LG Uplus - South Korea
+    Deutsche Telekom AG - Germany
+    Vodafone Group - United Kingdom
+    Orange S.A. - France
+    Telefónica - Spain
+    British Telecom (BT) - United Kingdom
+    Telstra Corporation Limited - Australia
+    Singtel - Singapore
+    StarHub Ltd - Singapore
+    Rogers Communications - Canada
+    Bell Canada - Canada
+    Telus Communications - Canada
+    Shaw Communications - Canada
+    Liberty Global plc - United Kingdom
+    TIM S.p.A. - Italy
+    Telecom Italia - Italy
+    Swisscom AG - Switzerland
+    Telenor Group - Norway
+    Telia Company AB - Sweden
+    Turk Telekom - Turkey
+    Etisalat Group - United Arab Emirates
+    Ooredoo Group - Qatar
+    Saudi Telecom Company (STC) - Saudi Arabia
+    Reliance Jio Infocomm Limited - India
+    Bharti Airtel Limited - India
+    Tata Communications Limited - India
+    A1 Telekom Austria Group - Austria
+    Telkom Indonesia - Indonesia
+    PLDT Inc. - Philippines
+    Globe Telecom - Philippines
+    Chunghwa Telecom - Taiwan
+    PTCL (Pakistan Telecommunication Company Limited) - Pakistan
+    Viettel Group - Vietnam
+    True Corporation - Thailand
+    AIS (Advanced Info Service) - Thailand
+    PCCW Limited - Hong Kong
+    Maxis Berhad - Malaysia
+    Celcom Axiata Berhad - Malaysia
+
+    Here are 50 cryptocurrencies, including some of the most well-known and widely used ones as well as some newer or less common ones:
+
+    Bitcoin (BTC)
+    Ethereum (ETH)
+    Binance Coin (BNB)
+    Cardano (ADA)
+    Solana (SOL)
+    XRP (XRP)
+    Polkadot (DOT)
+    Dogecoin (DOGE)
+    USD Coin (USDC)
+    Terra (LUNA)
+    Avalanche (AVAX)
+    Chainlink (LINK)
+    Litecoin (LTC)
+    Algorand (ALGO)
+    Polygon (MATIC)
+    Bitcoin Cash (BCH)
+    Stellar (XLM)
+    VeChain (VET)
+    Internet Computer (ICP)
+    TRON (TRX)
+    Cosmos (ATOM)
+    EOS (EOS)
+    FTX Token (FTT)
+    Wrapped Bitcoin (WBTC)
+    Uniswap (UNI)
+    Aave (AAVE)
+    Shiba Inu (SHIB)
+    Filecoin (FIL)
+    Ethereum Classic (ETC)
+    Dai (DAI)
+    Tezos (XTZ)
+    THETA (THETA)
+    PancakeSwap (CAKE)
+    Crypto.com Coin (CRO)
+    Huobi Token (HT)
+    Axie Infinity (AXS)
+    Maker (MKR)
+    Avalanche (AVAX)
+    SushiSwap (SUSHI)
+    Compound (COMP)
+    Decentraland (MANA)
+    Fantom (FTM)
+    The Sandbox (SAND)
+    OKB (OKB)
+    Klaytn (KLAY)
+    Bitcoin SV (BSV)
+    IOTA (MIOTA)
+    Waves (WAVES)
+    Zcash (ZEC)
+    Elrond (EGLD)
+
+    Here are 50 global science and research facilities known for their significant contributions to various fields of science and research:
+
+    CERN (European Organization for Nuclear Research) - Switzerland/France
+    NASA (National Aeronautics and Space Administration) - United States
+    ESA (European Space Agency) - Europe
+    Fermilab (Fermi National Accelerator Laboratory) - United States
+    Max Planck Institute - Germany
+    Los Alamos National Laboratory - United States
+    Lawrence Berkeley National Laboratory - United States
+    Oak Ridge National Laboratory - United States
+    Stanford Linear Accelerator Center (SLAC) - United States
+    JPL (Jet Propulsion Laboratory) - United States
+    Brookhaven National Laboratory - United States
+    National Institutes of Health (NIH) - United States
+    National Renewable Energy Laboratory (NREL) - United States
+    Argonne National Laboratory - United States
+    European Molecular Biology Laboratory (EMBL) - Europe
+    RIKEN - Japan
+    Scripps Research - United States
+    Cold Spring Harbor Laboratory - United States
+    Woods Hole Oceanographic Institution - United States
+    National Radio Astronomy Observatory (NRAO) - United States
+    National Center for Atmospheric Research (NCAR) - United States
+    European Organization for Astronomical Research in the Southern Hemisphere (ESO) - Europe
+    Mayo Clinic - United States
+    Salk Institute for Biological Studies - United States
+    Weizmann Institute of Science - Israel
+    Howard Hughes Medical Institute (HHMI) - United States
+    Lawrence Livermore National Laboratory - United States
+    National Ignition Facility (NIF) - United States
+    Mauna Kea Observatories - Hawaii, United States
+    Pierre Auger Observatory - Argentina
+    National Oceanic and Atmospheric Administration (NOAA) - United States
+    Paul Scherrer Institute - Switzerland
+    Instituto Gulbenkian de Ciência (IGC) - Portugal
+    Institute of Physics (IOP) - United Kingdom
+    Harvard-Smithsonian Center for Astrophysics - United States
+    Max Planck Institute for Astrophysics - Germany
+    European Southern Observatory (ESO) - Europe
+    Allen Institute for Brain Science - United States
+    National High Magnetic Field Laboratory - United States
+    European Synchrotron Radiation Facility (ESRF) - France
+    European Organization for Nuclear Research (CERN) - Switzerland/France
+    Karolinska Institute - Sweden
+    Stowers Institute for Medical Research - United States
+    Chan Zuckerberg Biohub - United States
+    Flatiron Institute - United States
+    Allen Institute for Cell Science - United States
+    Broad Institute of MIT and Harvard - United States
+    Carnegie Institution for Science - United States
+    Institute for Advanced Study (IAS) - United States
+    Institute of Physics of the Czech Academy of Sciences - Czech Republic
+
+    Here are 50 global satellite companies known for their contributions to the satellite industry:
+
+    SpaceX - United States
+    OneWeb - United Kingdom
+    Airbus Defence and Space - France
+    Boeing Satellite Systems International - United States
+    Lockheed Martin Space Systems - United States
+    Thales Alenia Space - France/Italy
+    Northrop Grumman Innovation Systems - United States
+    SES S.A. - Luxembourg
+    Intelsat - Luxembourg
+    Eutelsat Communications - France
+    Telesat - Canada
+    Inmarsat - United Kingdom
+    Viasat, Inc. - United States
+    Iridium Communications Inc. - United States
+    EchoStar Corporation - United States
+    Hughes Network Systems - United States
+    Globalstar, Inc. - United States
+    Hispasat - Spain
+    Gilat Satellite Networks - Israel
+    ViaSat, Inc. - United States
+    Planet Labs Inc. - United States
+    Sky and Space Global - United Kingdom
+    SES Americom - United States
+    Orbital Sciences Corporation (now Northrop Grumman Innovation Systems) - United States
+    DigitalGlobe (now part of Maxar Technologies) - United States
+    Maxar Technologies - United States
+    Optus - Australia
+    KT Corporation - South Korea
+    Arabsat - Saudi Arabia
+    Spacecom (Israel Space Agency) - Israel
+    APT Satellite Holdings Limited - China
+    China Satcom - China
+    China Great Wall Industry Corporation (CGWIC) - China
+    Asia Broadcast Satellite (ABS) - Bermuda
+    Avanti Communications Group plc - United Kingdom
+    Echostar Mobile Limited - United Kingdom
+    Globecomm Systems Inc. - United States
+    Speedcast International Limited - Australia
+    O3b Networks - Luxembourg
+    Sirius XM Holdings Inc. - United States
+    Gazprom Space Systems - Russia
+    Skynet - United Kingdom
+    ViaSatellite - United States
+    Ovzon AB - Sweden
+    LeoSat Enterprises - United States
+    Kacific Broadband Satellites Group - Singapore
+    China Satcom - China
+    SES Networks - Luxembourg
+    ABS-CBN Broadcasting Corporation - Philippines
+    ABS-Satellite - Bermuda
+
+    Here are 50 global diamond distributors and traders include:
+
+    De Beers Group
+    Alrosa
+    Rio Tinto Diamonds
+    Petra Diamonds
+    Dominion Diamond Corporation
+    Lucara Diamond Corp
+    Gem Diamonds
+    Gemcorp Group
+    Diacore
+    Blue Nile Inc.
+    Rosy Blue
+    Chow Tai Fook Jewellery Group
+    Graff Diamonds
+    Harry Winston Inc.
+    Chow Sang Sang Holdings International
+    Tiffany & Co.
+    Sotheby's Diamonds
+    Christies Diamonds
+    Firestar Diamond
+    Leo Schachter Diamonds
+    M. Suresh Company
+    Jahan Diamonds
+    Laxmi Diamond Pvt Ltd
+    Pacific Diamonds
+    Julius Klein Group
+    Sarine Technologies
+    Dharmanandan Diamonds Pvt Ltd
+    KGK Group
+    Venus Jewel
+    Chow Tai Fook Enterprises Ltd.
+    Venus Jewel
+    L. N. Jewels
+    C. Mahendra Exports Ltd
+    Khimji Ramdas Group
+    M. Suresh Company
+    Blue Star Diamonds
+    Gemological Institute of America (GIA)
+    IGC Group
+    Shree Ramkrishna Exports Pvt Ltd
+    Manohar Lal Sarraf and Sons Jewellers Pvt Ltd
+    Hari Krishna Exports Pvt Ltd
+    Gemalliance
+    Shrenuj & Co. Ltd.
+    KGK Diamonds
+    Yerushalmi Bros. Diamonds
+    Rosy Blue
+    Venus Jewel
+    Mahendra Brothers
+    Kiran Gems
+    KGK Group
+
+    Here are 50 global prominent entities involved in various aspects of the gold industry:
+
+    Barrick Gold Corporation
+    Newmont Corporation
+    AngloGold Ashanti
+    Polyus
+    Kinross Gold Corporation
+    Gold Fields Limited
+    Newcrest Mining Limited
+    Agnico Eagle Mines Limited
+    Freeport-McMoRan Inc.
+    Sibanye Stillwater
+    Harmony Gold Mining Company Limited
+    Northern Star Resources Limited
+    Kirkland Lake Gold Ltd.
+    Yamana Gold Inc.
+    B2Gold Corp.
+    Evolution Mining Limited
+    IAMGOLD Corporation
+    Eldorado Gold Corporation
+    Centerra Gold Inc.
+    Alamos Gold Inc.
+    Endeavour Mining Corporation
+    Pan American Silver Corp. (primarily a silver producer but also mines gold)
+    Wheaton Precious Metals Corp. (primarily a precious metals streaming company)
+    Royal Gold, Inc. (primarily a precious metals streaming company)
+    Franco-Nevada Corporation (primarily a precious metals streaming company)
+    Goldcorp Inc. (now part of Newmont Corporation)
+    Kirkland Lake Gold Ltd.
+    Northern Star Resources Limited
+    Zijin Mining Group Co., Ltd.
+    Harmony Gold Mining Company Limited
+    Goldcorp Inc. (now part of Newmont Corporation)
+    Shandong Gold Mining Co., Ltd.
+    Kinross Gold Corporation
+    Newcrest Mining Limited
+    Polyus
+    AngloGold Ashanti
+    Newmont Corporation
+    BHP (BHP Billiton)
+    China National Gold Group Corporation (China Gold)
+    Nornickel (Norilsk Nickel)
+    Randgold Resources (now part of Barrick Gold Corporation)
+    Gold Fields Limited
+    Kinross Gold Corporation
+    Buenaventura
+    OceanaGold Corporation
+    Pretium Resources Inc.
+    Cia De Minas Buenaventura S.A.A.
+    Fortuna Silver Mines Inc.
+    Coeur Mining, Inc.
+    Hochschild Mining plc
+
+    Here are 50 of the biggest global pharmaceutical companies based on various metrics such as revenue, market capitalization, and industry influence:
+
+    Pfizer Inc.
+    Johnson & Johnson
+    Roche Holding AG
+    Novartis AG
+    Merck & Co., Inc.
+    GlaxoSmithKline plc
+    Sanofi
+    AstraZeneca PLC
+    Abbott Laboratories
+    Bristol Myers Squibb Company
+    Eli Lilly and Company
+    Novo Nordisk A/S
+    Gilead Sciences, Inc.
+    Takeda Pharmaceutical Company Limited
+    AbbVie Inc.
+    Teva Pharmaceutical Industries Limited
+    Amgen Inc.
+    Bayer AG
+    Biogen Inc.
+    Celgene Corporation (acquired by Bristol Myers Squibb)
+    Mylan N.V. (now Viatris Inc.)
+    Regeneron Pharmaceuticals, Inc.
+    Vertex Pharmaceuticals Incorporated
+    CSL Limited
+    Eisai Co., Ltd.
+    Astellas Pharma Inc.
+    Daiichi Sankyo Company, Limited
+    Boehringer Ingelheim
+    Shire plc (acquired by Takeda)
+    Allergan plc (now part of AbbVie)
+    Perrigo Company plc
+    UCB S.A.
+    Biogen Idec (now Biogen)
+    Sun Pharmaceutical Industries Limited
+    Jazz Pharmaceuticals plc
+    Endo International plc
+    Alexion Pharmaceuticals, Inc. (acquired by AstraZeneca)
+    Catalent, Inc.
+    Lundbeck
+    Mallinckrodt Pharmaceuticals
+    Zoetis Inc.
+    Ipsen
+    Amarin Corporation plc
+    Perrigo Company plc
+    Alkermes plc
+    Kyowa Kirin Co., Ltd.
+    Recordati S.p.A.
+    Intercept Pharmaceuticals, Inc.
+    H. Lundbeck A/S
+    GW Pharmaceuticals plc (acquired by Jazz Pharmaceuticals)
+
+    Here are 50 of the biggest global chemical companies based on various metrics such as revenue, market capitalization, and industry influence:
+
+    BASF SE
+    Dow Chemical Company (now Dow Inc.)
+    SABIC (Saudi Basic Industries Corporation)
+    ExxonMobil Chemical Company
+    LyondellBasell Industries N.V.
+    DuPont de Nemours, Inc. (formerly DowDuPont Inc.)
+    INEOS Group Holdings S.A.
+    Mitsubishi Chemical Corporation
+    Bayer AG
+    Air Liquide S.A.
+    Linde plc
+    Evonik Industries AG
+    Reliance Industries Limited (RIL)
+    TotalEnergies SE
+    Formosa Plastics Corporation
+    Huntsman Corporation
+    Sumitomo Chemical Company, Limited
+    Sinopec (China Petroleum & Chemical Corporation)
+    Clariant AG
+    Arkema S.A.
+    Mitsubishi Gas Chemical Company, Inc.
+    PPG Industries, Inc.
+    Asahi Kasei Corporation
+    Solvay S.A.
+    Lotte Chemical Corporation
+    LG Chem Ltd.
+    Chevron Phillips Chemical Company LLC
+    Braskem S.A.
+    Saudi Aramco
+    DSM (Koninklijke DSM N.V.)
+    Akzo Nobel N.V.
+    Celanese Corporation
+    Eastman Chemical Company
+    Wanhua Chemical Group Co., Ltd.
+    Tosoh Corporation
+    Covestro AG
+    Shin-Etsu Chemical Co., Ltd.
+    Sabic Innovative Plastics (now part of SABIC)
+    Olin Corporation
+    Westlake Chemical Corporation
+    Kuraray Co., Ltd.
+    Indorama Ventures Public Company Limited
+    Croda International Plc
+    Hanwha Chemical Corporation
+    Braskem S.A.
+    PTT Global Chemical Public Company Limited
+    Mitsui Chemicals, Inc.
+    Toray Industries, Inc.
+    Idemitsu Kosan Co., Ltd.
+    Shandong Hengrui Technology Co., Ltd.
+
+    Here are 50 of the biggest global data centers:
+
+    Equinix
+    Digital Realty
+    CoreSite
+    CyrusOne
+    NTT Communications
+    Global Switch
+    Interxion (now part of Digital Realty)
+    China Telecom
+    China Unicom
+    China Mobile
+    Switch
+    NextDC
+    QTS Realty Trust
+    CenturyLink (now part of Lumen Technologies)
+    Iron Mountain
+    Cyxtera Technologies
+    Teraco Data Environments
+    Telstra Corporation Limited
+    Colt Data Centre Services
+    KDDI Corporation
+    Telehouse (part of KDDI Corporation)
+    AT&T
+    Rackspace Technology
+    Singtel
+    Telefónica
+    T-Systems (part of Deutsche Telekom)
+    Microsoft Azure
+    Google Cloud Platform
+    Amazon Web Services (AWS)
+    Oracle Cloud
+    IBM Cloud
+    Alibaba Cloud
+    Tencent Cloud
+    OVHcloud
+    Scaleway
+    Hetzner Online GmbH
+    DigitalOcean
+    Linode
+    Liquid Web
+    Hetzner Online GmbH
+    OVHcloud
+    Interxion (now part of Digital Realty)
+    Google Cloud Platform
+    Amazon Web Services (AWS)
+    Microsoft Azure
+    OVHcloud
+    IBM Cloud
+    Equinix
+    Digital Realty
+    CoreSite
+
+Now I AM going to tell you secret. See all those bitches and they are bitches. Play for the wrong team and you can join their fate. The one that inspired the question is from the heavens, how the response was given comes str8 from hell, where they all go. Good Luck, if you crack the code, but then again, only codes need to be cracked happen in the open. No agenda, no problem, love more talk less. Because all those KatZ they are watching how they die in this realm and every other. Of course the only ones I want to see this list and their garbage work are the ones I just mentioned.
