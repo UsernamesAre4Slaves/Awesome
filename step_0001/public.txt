@@ -1,6 +1,6 @@
 Tree Cricket List 0524
 
-    Here's a list of 50 of the biggest global tech companies, not in any particular order:
+    Here's a list of 50 of the biggest global tech companies, not in any particular order
 
     Apple Inc.
     Microsoft Corporation
@@ -53,7 +53,7 @@ Tree Cricket List 0524
     Canon Inc.
     Fujitsu Limited
 
-    Here's a list of 50 of the biggest global banks, not in any particular order:
+    Here's a list of 50 of the biggest global banks, not in any particular order
 
     JPMorgan Chase & Co.
     Bank of America Corporation
@@ -106,7 +106,7 @@ Tree Cricket List 0524
     Industrial Bank Co., Ltd.
     China Everbright Bank Co., Ltd.
 
-    Here's a list of 50 of the biggest military contractors, not in any particular order:
+    Here's a list of 50 of the biggest military contractors, not in any particular order
 
     Lockheed Martin Corporation
     Boeing Company
@@ -159,7 +159,7 @@ Tree Cricket List 0524
     Oshkosh Corporation
     AM General LLC
 
-    Here's a list of 50 global government agencies from various countries:
+    Here's a list of 50 global government agencies from various countries
 
     National Aeronautics and Space Administration (NASA) - United States
     Central Intelligence Agency (CIA) - United States
@@ -212,7 +212,7 @@ Tree Cricket List 0524
     Department of State Security (DSS) - Nigeria
     Nigerian Defence Intelligence Agency (DIA) - Nigeria
 
-    Here's a list of 50 global power plants:
+    Here's a list of 50 global power plants
 
     Three Gorges Dam - China (Hydropower)
     Itaipu Dam - Brazil/Paraguay (Hydropower)
@@ -265,7 +265,7 @@ Tree Cricket List 0524
     Hellisheiði Power Station - Iceland (Geothermal Power)
     Geysers Geothermal Complex - United States (Geothermal Power)
 
-    Here's a list of 50 global world leaders as of 2022: (Apologies some failed agendas like to repeat)
+    Here's a list of 50 global world leaders as of 2022
     
     Joe Biden - President of the United States
     Xi Jinping - General Secretary of the Communist Party of China and President of China
@@ -318,7 +318,7 @@ Tree Cricket List 0524
     Andrés Manuel López Obrador - President of Mexico
     Vladimir Putin - President of Russia
 
-    Here are 50 global media outlets from various countries and regions:
+    Here are 50 global media outlets from various countries and regions
 
     CNN (Cable News Network) - United States
     BBC (British Broadcasting Corporation) - United Kingdom
@@ -371,7 +371,7 @@ Tree Cricket List 0524
     CNBC - United States
     ESPN (Entertainment and Sports Programming Network) - United States
 
-    Here are 50 global religious institutions from various faiths and denominations:
+    Here are 50 global religious institutions from various faiths and denominations
 
     The Vatican (Holy See) - Catholicism
     Church of England (Anglican Communion) - Christianity
@@ -424,7 +424,7 @@ Tree Cricket List 0524
     International Association of Scientologists (IAS) - Scientology
     Supreme Council of the Universal White Brotherhood - Esoteric Christianity
 
-    Here are 50 global internet service providers (ISPs) from various regions around the world:
+    Here are 50 global internet service providers (ISPs) from various regions around the world
 
     Comcast (Xfinity) - United States
     AT&T - United States
@@ -477,7 +477,7 @@ Tree Cricket List 0524
     Maxis Berhad - Malaysia
     Celcom Axiata Berhad - Malaysia
 
-    Here are 50 cryptocurrencies, including some of the most well-known and widely used ones as well as some newer or less common ones:
+    Here are 50 cryptocurrencies
 
     Bitcoin (BTC)
     Ethereum (ETH)
@@ -530,7 +530,7 @@ Tree Cricket List 0524
     Zcash (ZEC)
     Elrond (EGLD)
 
-    Here are 50 global science and research facilities known for their significant contributions to various fields of science and research:
+    Here are 50 global science and research facilities
 
     CERN (European Organization for Nuclear Research) - Switzerland/France
     NASA (National Aeronautics and Space Administration) - United States
@@ -583,7 +583,7 @@ Tree Cricket List 0524
     Institute for Advanced Study (IAS) - United States
     Institute of Physics of the Czech Academy of Sciences - Czech Republic
 
-    Here are 50 global satellite companies known for their contributions to the satellite industry:
+    Here are 50 global satellite companies known for their contributions to the satellite industry
 
     SpaceX - United States
     OneWeb - United Kingdom
@@ -636,7 +636,7 @@ Tree Cricket List 0524
     ABS-CBN Broadcasting Corporation - Philippines
     ABS-Satellite - Bermuda
 
-    Here are 50 global diamond distributors and traders include:
+    Here are 50 global diamond distributors and traders include
 
     De Beers Group
     Alrosa
@@ -689,7 +689,7 @@ Tree Cricket List 0524
     Kiran Gems
     KGK Group
 
-    Here are 50 global prominent entities involved in various aspects of the gold industry:
+    Here are 50 global prominent entities involved in various aspects of the gold industry
 
     Barrick Gold Corporation
     Newmont Corporation
@@ -742,7 +742,7 @@ Tree Cricket List 0524
     Coeur Mining, Inc.
     Hochschild Mining plc
 
-    Here are 50 of the biggest global pharmaceutical companies based on various metrics such as revenue, market capitalization, and industry influence:
+    Here are 50 of the biggest global pharmaceutical companies
 
     Pfizer Inc.
     Johnson & Johnson
@@ -795,7 +795,7 @@ Tree Cricket List 0524
     H. Lundbeck A/S
     GW Pharmaceuticals plc (acquired by Jazz Pharmaceuticals)
 
-    Here are 50 of the biggest global chemical companies based on various metrics such as revenue, market capitalization, and industry influence:
+    Here are 50 of the biggest global chemical companies
 
     BASF SE
     Dow Chemical Company (now Dow Inc.)
@@ -848,7 +848,7 @@ Tree Cricket List 0524
     Idemitsu Kosan Co., Ltd.
     Shandong Hengrui Technology Co., Ltd.
 
-    Here are 50 of the biggest global data centers:
+    Here are 50 of the biggest global data centers
 
     Equinix
     Digital Realty
@@ -898,7 +898,7 @@ Tree Cricket List 0524
     OVHcloud
     IBM Cloud
 
-    Here are 50 of the biggest international airports in the world, based on passenger traffic:
+    Here are 50 of the biggest international airports in the world, based on passenger traffic
 
     Hartsfield-Jackson Atlanta International Airport (ATL) - United States
     Beijing Capital International Airport (PEK) - China
@@ -954,7 +954,7 @@ Tree Cricket List 0524
     Digital Realty
     CoreSite
 
-    Here are 50 of the biggest international shipping ports in the world:
+    Here are 50 of the biggest international shipping ports in the world
 
     Shanghai Port - China
     Singapore Port - Singapore
@@ -1007,7 +1007,7 @@ Tree Cricket List 0524
     Port of Brisbane - Australia
     Port of Qingdao - China
 
-    Here are 50 of the biggest international railroad shipping companies:
+    Here are 50 of the biggest international railroad shipping companies
 
     Union Pacific Railroad - United States
     BNSF Railway - United States
@@ -1166,7 +1166,7 @@ Tree Cricket List 0524
     Jordan Customs (Jordan Customs Department)
     Sudan Customs (Customs of Sudan)
 
-    Here are 50 of the biggest international ground shipping companies:
+    Here are 50 of the biggest international ground shipping companies
 
     UPS (United Parcel Service) - United States
     FedEx Corporation - United States
@@ -1219,7 +1219,7 @@ Tree Cricket List 0524
     Toll Group - Australia
     ABF Freight System, Inc. - United States
 
-    Here are 50 countries with their respective Interpol National Central Bureaus (NCBs):
+    Here are 50 countries with their respective Interpol National Central Bureaus (NCBs)
 
     United States - United States National Central Bureau (USNCB)
     France - Office Central National Interpol Français (OCRF-Interpol)
@@ -1268,6 +1268,218 @@ Tree Cricket List 0524
     Vietnam - Ministry of Public Security (Bộ Công an)
     Philippines - Philippine National Police (PNP)
     Nigeria - Nigeria Police Force (NPF)
+
+    Here's a list of 50 adult companies and their locations
+
+    MindGeek - Luxembourg
+    Brazzers - Canada
+    Pornhub - Canada
+    YouPorn - Canada
+    RedTube - Czech Republic
+    xHamster - Cyprus
+    Reality Kings - United States
+    Digital Playground - United States
+    BangBros - United States
+    Twistys - United States
+    Vivid Entertainment - United States
+    Evil Angel - United States
+    Naughty America - United States
+    Mofos - United States
+    Team Skeet - United States
+    Jules Jordan Video - United States
+    Reality Junkies - United States
+    Blacked - United States
+    Tushy - United States
+    Vixen - United States
+    Fake Taxi - United Kingdom
+    Nubile Films - United States
+    GirlsDoPorn - United States
+    X-Art - United States
+    BadoinkVR - United States
+    Bellesa Films - United States
+    Pure Taboo - United States
+    Legal Porno - Czech Republic
+    Passion HD - United States
+    Babes.com - United States
+    WankzVR - United States
+    Mylf - United States
+    DDF Network - Czech Republic
+    Men.com - United States
+    DarkX - United States
+    SweetSinner - United States
+    Penthouse - United States
+    Playboy TV - United States
+    XConfessions - Spain
+    Pure Mature - United States
+    Erotica X - United States
+    Erika Lust Films - Spain
+    New Sensations - United States
+    SexArt - Spain
+    Fantasy Massage - United States
+    Adult Time - Canada
+    Private Media Group - Spain
+    Hustler - United States
+    Zero Tolerance Entertainment - United States
+    Dogfart Network - United States
     Egypt - Ministry of Interior (وزارة الداخلية)
     Kenya - Directorate of Criminal Investigation (DCI)
     Ghana - Criminal Investigation Department (CID)
+
+    Here's a list of 50 relative companies and their locations related to the word
+
+    CIA (Central Intelligence Agency) - United States
+    MI6 (Secret Intelligence Service) - United Kingdom
+    NSA (National Security Agency) - United States
+    Mossad - Israel
+    FSB (Federal Security Service) - Russia
+    DGSE (General Directorate for External Security) - France
+    BND (Bundesnachrichtendienst) - Germany
+    ASIS (Australian Secret Intelligence Service) - Australia
+    ISI (Inter-Services Intelligence) - Pakistan
+    RAW (Research and Analysis Wing) - India
+    MSS (Ministry of State Security) - China
+    GRU (Main Intelligence Directorate) - Russia
+    NRO (National Reconnaissance Office) - United States
+    GCHQ (Government Communications Headquarters) - United Kingdom
+    SVR (Foreign Intelligence Service) - Russia
+    CSIS (Canadian Security Intelligence Service) - Canada
+    AIVD (General Intelligence and Security Service) - Netherlands
+    NIS (National Intelligence Service) - South Korea
+    NSA/CSS (National Security Agency/Central Security Service) - United States
+    SISMI (Military Intelligence and Security Service) - Italy
+    MSS (Security Service) - United Kingdom
+    BfV (Federal Office for the Protection of the Constitution) - Germany
+    DGSI (General Directorate for Internal Security) - France
+    MIVD (Military Intelligence and Security Service) - Netherlands
+    ONI (Office of Naval Intelligence) - United States
+    CSE (Communications Security Establishment) - Canada
+    AISE (Italian Intelligence and Security Agency) - Italy
+    SDECE (External Documentation and Counter-Espionage Service) - France
+    ANSSI (National Cybersecurity Agency of France) - France
+    MSS (Maritime Security Service) - United Kingdom
+    JICA (Japan International Cooperation Agency) - Japan
+    MI5 (Security Service) - United Kingdom
+    NGA (National Geospatial-Intelligence Agency) - United States
+    OHR (Office of High Representative) - Bosnia and Herzegovina
+    DIS (Defense Intelligence Service) - Denmark
+    SISDE (Security Intelligence Service) - Italy
+    MIB (Ministry of Intelligence of Iran) - Iran
+    GOE (General Intelligence and Security Service) - Portugal
+    R&AW (Research and Analysis Wing) - India
+    JRC (Joint Research Centre) - European Union
+    ASIO (Australian Security Intelligence Organisation) - Australia
+    CNI (National Intelligence Center) - Spain
+    SVR RF (Foreign Intelligence Service of the Russian Federation) - Russia
+    SIS (Secret Intelligence Service) - United Kingdom
+    MVD (Ministry of Internal Affairs) - Russia
+    NDS (National Directorate of Security) - Afghanistan
+    KGB (Committee for State Security) - Soviet Union (defunct)
+    DCRI (Central Directorate of Interior Intelligence) - France
+    NISA (National Intelligence and Security Agency) - Somalia
+    DGSE (Security and External Intelligence Directorate) - Luxembourg
+
+    Here's a list of 50 relative companies and their locations related to the word
+
+    Lockheed Martin - United States
+    BAE Systems - United Kingdom
+    Raytheon Technologies - United States
+    Northrop Grumman Corporation - United States
+    General Dynamics Corporation - United States
+    Airbus Group - Netherlands
+    Boeing - United States
+    Thales Group - France
+    Leonardo S.p.A. - Italy
+    SAAB Group - Sweden
+    L3Harris Technologies - United States
+    Rheinmetall AG - Germany
+    United Technologies Corporation - United States
+    Mitsubishi Heavy Industries - Japan
+    Hanwha Corporation - South Korea
+    Elbit Systems - Israel
+    Honeywell International Inc. - United States
+    Dassault Aviation - France
+    Rolls-Royce Holdings - United Kingdom
+    Huntington Ingalls Industries - United States
+    Harris Corporation - United States
+    Kongsberg Gruppen - Norway
+    MBDA - United Kingdom
+    Safran - France
+    Textron Inc. - United States
+    Navistar International - United States
+    Hyundai Rotem - South Korea
+    Kawasaki Heavy Industries - Japan
+    Israel Aerospace Industries - Israel
+    Saab AB - Sweden
+    Booz Allen Hamilton - United States
+    Cobham plc - United Kingdom
+    AeroVironment - United States
+    Serco Group - United Kingdom
+    LIG Nex1 - South Korea
+    Leidos Holdings - United States
+    Embraer - Brazil
+    Kratos Defense & Security Solutions - United States
+    Orbital ATK - United States
+    Meggitt PLC - United Kingdom
+    Cubic Corporation - United States
+    Finmeccanica - Italy
+    Bharat Electronics Limited - India
+    ST Engineering - Singapore
+    Navantia - Spain
+    Hindustan Aeronautics Limited - India
+    KBR, Inc. - United States
+    FLIR Systems - United States
+    Chemring Group - United Kingdom
+    CAE Inc. - Canada
+
+    Here's a list of 50 relative companies and their locations related to the word
+
+    ECPAT International - Thailand
+    International Justice Mission - United States
+    Save the Children - United Kingdom
+    UNICEF (United Nations International Children's Emergency Fund) - United States
+    World Vision International - United States
+    ChildFund International - United States
+    Plan International - United Kingdom
+    Terre des Hommes International Federation - Switzerland
+    SOS Children's Villages International - Austria
+    International Child Abuse Network - United States
+    Child Rights International Network (CRIN) - United Kingdom
+    Child Welfare League of America - United States
+    Covenant House International - United States
+    International Centre for Missing & Exploited Children (ICMEC) - United States
+    Child Soldiers International - United Kingdom
+    A21 - United States
+    Childhelp - United States
+    Human Rights Watch - United States
+    International Rescue Committee - United States
+    International Federation of Red Cross and Red Crescent Societies - Switzerland
+    Global Fund for Children - United States
+    Childline India Foundation - India
+    Child Rights and You (CRY) - India
+    National Society for the Prevention of Cruelty to Children (NSPCC) - United Kingdom
+    Defence for Children International - Switzerland
+    UNODC (United Nations Office on Drugs and Crime) - Austria
+    Childline - United Kingdom
+    International Children's Fund - United States
+    International Federation of Social Workers - Switzerland
+    Save the Children International - United Kingdom
+    World Childhood Foundation - United States
+    Children International - United States
+    Child Rights Connect - Switzerland
+    Global Children's Fund - United States
+    Planète Enfants & Développement - France
+    International Society for the Prevention of Child Abuse and Neglect (ISPCAN) - United States
+    Defence for Children International - Netherlands
+    ChildFund Alliance - United States
+    Consortium for Street Children - United Kingdom
+    Street Child - United Kingdom
+    International Social Service - Switzerland
+    Aflatoun International - Netherlands
+    Friends International - Cambodia
+    The Polaris Project - United States
+    World Association of Girl Guides and Girl Scouts - United Kingdom
+    The Myna Mahila Foundation - India
+    Global Alliance Against Traffic in Women - United Kingdom
+    International Labour Organization - Switzerland
+    Children of the Night - United States
+    UNICEF - Multiple Locations
