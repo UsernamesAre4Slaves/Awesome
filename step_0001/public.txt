@@ -897,6 +897,377 @@ Tree Cricket List 0524
     Microsoft Azure
     OVHcloud
     IBM Cloud
+
+    Here are 50 of the biggest international airports in the world, based on passenger traffic:
+
+    Hartsfield-Jackson Atlanta International Airport (ATL) - United States
+    Beijing Capital International Airport (PEK) - China
+    Dubai International Airport (DXB) - United Arab Emirates
+    Los Angeles International Airport (LAX) - United States
+    Tokyo Haneda Airport (HND) - Japan
+    O'Hare International Airport (ORD) - United States
+    London Heathrow Airport (LHR) - United Kingdom
+    Shanghai Pudong International Airport (PVG) - China
+    Charles de Gaulle Airport (CDG) - France
+    Dallas/Fort Worth International Airport (DFW) - United States
+    Indira Gandhi International Airport (DEL) - India
+    Hong Kong International Airport (HKG) - Hong Kong
+    Frankfurt Airport (FRA) - Germany
+    Denver International Airport (DEN) - United States
+    Suvarnabhumi Airport (BKK) - Thailand
+    Singapore Changi Airport (SIN) - Singapore
+    Amsterdam Airport Schiphol (AMS) - Netherlands
+    Guangzhou Baiyun International Airport (CAN) - China
+    Incheon International Airport (ICN) - South Korea
+    Kuala Lumpur International Airport (KUL) - Malaysia
+    San Francisco International Airport (SFO) - United States
+    Madrid-Barajas Adolfo Suárez Airport (MAD) - Spain
+    McCarran International Airport (LAS) - United States
+    Soekarno-Hatta International Airport (CGK) - Indonesia
+    Heathrow Airport (LHR) - United Kingdom
+    Seattle-Tacoma International Airport (SEA) - United States
+    Chhatrapati Shivaji Maharaj International Airport (BOM) - India
+    Toronto Pearson International Airport (YYZ) - Canada
+    Paris-Orly Airport (ORY) - France
+    Barcelona–El Prat Airport (BCN) - Spain
+    Istanbul Atatürk Airport (IST) - Turkey
+    Orlando International Airport (MCO) - United States
+    Ninoy Aquino International Airport (MNL) - Philippines
+    Munich Airport (MUC) - Germany
+    Phoenix Sky Harbor International Airport (PHX) - United States
+    Leonardo da Vinci–Fiumicino Airport (FCO) - Italy
+    José María Córdova International Airport (MDE) - Colombia
+    Dubai World Central - Al Maktoum International Airport (DWC) - United Arab Emirates
+    Miami International Airport (MIA) - United States
+    Sydney Airport (SYD) - Australia
+    Bangkok Don Mueang International Airport (DMK) - Thailand
+    Narita International Airport (NRT) - Japan
+    John F. Kennedy International Airport (JFK) - United States
+    Vancouver International Airport (YVR) - Canada
+    Riyadh King Khalid International Airport (RUH) - Saudi Arabia
+    Sheremetyevo International Airport (SVO) - Russia
+    Shanghai Hongqiao International Airport (SHA) - China
+    Hamad International Airport (DOH) - Qatar
+    Zurich Airport (ZRH) - Switzerland
+    Bengaluru Kempegowda International Airport (BLR) - India
     Equinix
     Digital Realty
     CoreSite
+
+    Here are 50 of the biggest international shipping ports in the world:
+
+    Shanghai Port - China
+    Singapore Port - Singapore
+    Ningbo-Zhoushan Port - China
+    Shenzhen Port - China
+    Guangzhou Port - China
+    Busan Port - South Korea
+    Qingdao Port - China
+    Hong Kong Port - Hong Kong
+    Tianjin Port - China
+    Rotterdam Port - Netherlands
+    Jebel Ali Port - United Arab Emirates
+    Port of Kaohsiung - Taiwan
+    Port of Antwerp - Belgium
+    Port of Houston - United States
+    Port of Los Angeles - United States
+    Port of Singapore - Singapore
+    Port of Ningbo-Zhoushan - China
+    Port of Tangshan - China
+    Port of Qingdao - China
+    Port of Tianjin - China
+    Port of Dalian - China
+    Port of Suzhou - China
+    Port of Guangzhou - China
+    Port of Hong Kong - Hong Kong
+    Port of Busan - South Korea
+    Port of Long Beach - United States
+    Port of New York and New Jersey - United States
+    Port of Rotterdam - Netherlands
+    Port of Hamburg - Germany
+    Port of Ningbo - China
+    Port of Dubai - United Arab Emirates
+    Port of Ho Chi Minh City - Vietnam
+    Port of Chennai - India
+    Port of Mumbai - India
+    Port of Manila - Philippines
+    Port of Istanbul - Turkey
+    Port of Sydney - Australia
+    Port of Barcelona - Spain
+    Port of Felixstowe - United Kingdom
+    Port of Miami - United States
+    Port of Bremerhaven - Germany
+    Port of Laem Chabang - Thailand
+    Port of Genoa - Italy
+    Port of Santos - Brazil
+    Port of Vancouver - Canada
+    Port of Colombo - Sri Lanka
+    Port of Seattle - United States
+    Port of Klang - Malaysia
+    Port of Brisbane - Australia
+    Port of Qingdao - China
+
+    Here are 50 of the biggest international railroad shipping companies:
+
+    Union Pacific Railroad - United States
+    BNSF Railway - United States
+    CN Rail (Canadian National Railway) - Canada
+    CSX Transportation - United States
+    Norfolk Southern Railway - United States
+    Kansas City Southern Railway - United States
+    Canadian Pacific Railway - Canada
+    Ferromex - Mexico
+    Ferrosur - Mexico
+    Genesee & Wyoming Inc. - United States
+    Kansas City Southern de Mexico (KCSM) - Mexico
+    Alaska Railroad - United States
+    Union Pacific Railroad - United States
+    Burlington Northern Santa Fe Railway (BNSF) - United States
+    Canadian National Railway (CN) - Canada
+    CSX Transportation - United States
+    Norfolk Southern Railway - United States
+    Kansas City Southern Railway - United States
+    Canadian Pacific Railway (CP) - Canada
+    Ferromex - Mexico
+    Kansas City Southern de Mexico (KCSM) - Mexico
+    Genesee & Wyoming Inc. - United States
+    Alaska Railroad - United States
+    CN Rail (Canadian National Railway) - Canada
+    BNSF Railway - United States
+    Union Pacific Railroad - United States
+    CSX Transportation - United States
+    Norfolk Southern Railway - United States
+    Kansas City Southern Railway - United States
+    Canadian National Railway (CN) - Canada
+    Canadian Pacific Railway (CP) - Canada
+    Ferromex - Mexico
+    Ferrosur - Mexico
+    Genesee & Wyoming Inc. - United States
+    Kansas City Southern de Mexico (KCSM) - Mexico
+    Alaska Railroad - United States
+    Union Pacific Railroad - United States
+    BNSF Railway - United States
+    CN Rail (Canadian National Railway) - Canada
+    CSX Transportation - United States
+    Norfolk Southern Railway - United States
+    Kansas City Southern Railway - United States
+    Canadian Pacific Railway (CP) - Canada
+    Ferromex - Mexico
+    Ferrosur - Mexico
+    Genesee & Wyoming Inc. - United States
+    Kansas City Southern de Mexico (KCSM) - Mexico
+    Alaska Railroad - United States
+    Union Pacific Railroad - United States
+    BNSF Railway - United States
+
+    Here are 50 of the biggest international water treatment plants
+
+    Metropolitan Water Reclamation District of Greater Chicago (Stickney Water Reclamation Plant) - United States
+    Thames Water (Beckton Sewage Treatment Works) - United Kingdom
+    Kurnell Desalination Plant - Australia
+    Newater Plant - Singapore
+    Robert W. Hite Treatment Facility - United States
+    Deer Island Treatment Plant - United States
+    Chicago Department of Water Management (Jardine Water Purification Plant) - United States
+    Changi Water Reclamation Plant - Singapore
+    West Bank Wastewater Treatment Plant - Palestine
+    Shatin Sewage Treatment Works - Hong Kong
+    Dubai Municipality Sewage Treatment Plant - United Arab Emirates
+    Blue Plains Advanced Wastewater Treatment Plant - United States
+    Los Angeles-Glendale Water Reclamation Plant - United States
+    Long Beach Water Reclamation Plant - United States
+    Dubai International City Sewage Treatment Plant - United Arab Emirates
+    Orange County Water District Groundwater Replenishment System - United States
+    Choa Chu Kang Waterworks - Singapore
+    San Jose-Santa Clara Regional Wastewater Facility - United States
+    North Head Wastewater Treatment Plant - Australia
+    Gold Bar Wastewater Treatment Plant - Canada
+    Edward C. Little Water Recycling Facility - United States
+    East Bay Municipal Utility District (EBMUD) Wastewater Treatment Plant - United States
+    Barcelona Wastewater Treatment Plant - Spain
+    Sulaibiya Wastewater Treatment and Reclamation Plant - Kuwait
+    Northern Wastewater Treatment Plant (Cairo) - Egypt
+    Mekorot Water Company (Ashkelon Desalination Plant) - Israel
+    West Point Treatment Plant - United States
+    El Segundo Wastewater Treatment Plant - United States
+    Durban Heights Wastewater Treatment Works - South Africa
+    Deer Island Wastewater Treatment Plant - United States
+    Hyperion Treatment Plant - United States
+    North End Water Pollution Control Centre - Canada
+    Melbourne Water (Eastern Treatment Plant) - Australia
+    Tai Po Water Treatment Works - Hong Kong
+    New York City Department of Environmental Protection (Newtown Creek Wastewater Treatment Plant) - United States
+    West Water Treatment Plant - United States
+    Central Wastewater Treatment Plant (Abu Dhabi) - United Arab Emirates
+    Orange County Sanitation District Water Factory 21 - United States
+    Teresópolis Water Treatment Plant - Brazil
+    Punggol Waterway Wastewater Treatment Plant - Singapore
+    Moses Lake Water Treatment Plant - United States
+    Stickney Water Reclamation Plant - United States
+    Kenilworth Aquatic Gardens Marsh Rehabilitation Project - United States
+    Orange County Water District Groundwater Replenishment System - United States
+    Llobregat Water Treatment Plant - Spain
+    Penrith Wastewater Treatment Plant - Australia
+    Arcata Marsh and Wildlife Sanctuary - United States
+    New York City Department of Environmental Protection (Newtown Creek Wastewater Treatment Plant) - United States
+    Cape Town Water Treatment Plant - South Africa
+    South Treatment Plant (Seattle) - United States
+
+    Here are 50 of the biggest international customs agencies
+
+    United States Customs and Border Protection (CBP) - United States
+    European Union Customs (various agencies in EU member states)
+    China Customs (General Administration of Customs of China)
+    Japan Customs (Ministry of Finance Japan)
+    Canada Border Services Agency (CBSA) - Canada
+    Australian Border Force (ABF) - Australia
+    Her Majesty's Revenue and Customs (HMRC) - United Kingdom
+    India Customs (Central Board of Indirect Taxes and Customs)
+    Korea Customs Service (KCS) - South Korea
+    Federal Customs Service of Russia (FCS) - Russia
+    Brazil Customs (Receita Federal do Brasil)
+    Mexico Customs (Servicio de Administración Tributaria)
+    Singapore Customs - Singapore
+    South Africa Revenue Service (SARS) - South Africa
+    Saudi Customs - Saudi Arabia
+    United Arab Emirates Customs
+    New Zealand Customs Service - New Zealand
+    Hong Kong Customs and Excise Department - Hong Kong
+    Turkey Customs (Turkish Revenue Administration)
+    Indonesia Customs (Indonesia Directorate General of Customs and Excise)
+    Thailand Customs (Thai Customs Department)
+    Argentina Customs (Dirección General de Aduanas)
+    Chile Customs (Servicio Nacional de Aduanas de Chile)
+    Egypt Customs (Egypt Customs Authority)
+    Nigeria Customs Service - Nigeria
+    Malaysia Customs (Royal Malaysian Customs Department)
+    Colombia Customs (DIAN - Dirección de Impuestos y Aduanas Nacionales)
+    Taiwan Customs (Taiwan Customs Administration)
+    Vietnam Customs (General Department of Vietnam Customs)
+    Philippines Customs (Bureau of Customs)
+    Peru Customs (SUNAT - Superintendencia Nacional de Aduanas y de Administración Tributaria)
+    Pakistan Customs (Federal Board of Revenue)
+    Ukraine Customs (State Customs Service of Ukraine)
+    Bangladesh Customs (Customs, Excise & VAT Commissionerate)
+    Morocco Customs (Direction Générale des Douanes et Impôts Indirects)
+    Algeria Customs (Customs Directorate General)
+    Kenya Customs (Kenya Revenue Authority - Customs Services)
+    Venezuela Customs (SENIAT - Servicio Nacional Integrado de Administración Aduanera y Tributaria)
+    Iran Customs (Iran Customs Administration)
+    Iraq Customs (General Customs Authority)
+    Ghana Customs (Ghana Revenue Authority - Customs Division)
+    Ethiopia Customs (Ethiopian Customs Commission)
+    Tanzania Revenue Authority (TRA) - Customs Services
+    Uganda Revenue Authority (URA) - Customs Services
+    Kazakhstan Customs (Committee of State Revenues of the Ministry of Finance of the Republic of Kazakhstan)
+    Uzbekistan Customs (State Customs Committee of the Republic of Uzbekistan)
+    Azerbaijan Customs (State Customs Committee of the Republic of Azerbaijan)
+    Lebanon Customs (Lebanese Customs Administration)
+    Jordan Customs (Jordan Customs Department)
+    Sudan Customs (Customs of Sudan)
+
+    Here are 50 of the biggest international ground shipping companies:
+
+    UPS (United Parcel Service) - United States
+    FedEx Corporation - United States
+    DHL Express - Worldwide
+    TNT Express - Worldwide
+    USPS (United States Postal Service) - United States
+    Canada Post - Canada
+    Royal Mail Group - United Kingdom
+    Japan Post - Japan
+    China Post - China
+    Deutsche Post DHL Group - Germany
+    SF Express - China
+    YRC Worldwide Inc. - United States
+    XPO Logistics, Inc. - United States
+    C.H. Robinson Worldwide, Inc. - United States
+    Maersk Line - Denmark
+    Kuehne + Nagel International AG - Switzerland
+    Expeditors International - United States
+    DSV Panalpina A/S - Denmark/Switzerland
+    CEVA Logistics - Switzerland
+    Nippon Express Co., Ltd. - Japan
+    Schenker AG (DB Schenker) - Germany
+    Hapag-Lloyd AG - Germany
+    UPS Freight - United States
+    FedEx Freight - United States
+    Old Dominion Freight Line, Inc. - United States
+    Saia, Inc. - United States
+    Estes Express Lines - United States
+    Roadrunner Transportation Systems, Inc. - United States
+    Forward Air Corporation - United States
+    J.B. Hunt Transport Services, Inc. - United States
+    Landstar System, Inc. - United States
+    Knight-Swift Transportation Holdings Inc. - United States
+    Werner Enterprises, Inc. - United States
+    Swift Transportation Company - United States
+    Schneider National, Inc. - United States
+    CRST International, Inc. - United States
+    Penske Logistics - United States
+    United Road Services, Inc. - United States
+    Roadie, Inc. - United States
+    Uber Freight - United States
+    TQL (Total Quality Logistics) - United States
+    Echo Global Logistics, Inc. - United States
+    Coyote Logistics (A UPS Company) - United States
+    DHL Supply Chain - Worldwide
+    Geodis - France
+    Kintetsu World Express, Inc. - Japan
+    Yusen Logistics Co., Ltd. - Japan
+    DACHSER SE - Germany
+    Toll Group - Australia
+    ABF Freight System, Inc. - United States
+
+    Here are 50 countries with their respective Interpol National Central Bureaus (NCBs):
+
+    United States - United States National Central Bureau (USNCB)
+    France - Office Central National Interpol Français (OCRF-Interpol)
+    United Kingdom - United Kingdom National Central Bureau (UK NCB)
+    Germany - Bundeskriminalamt (BKA)
+    Japan - National Police Agency (NPA)
+    Australia - Australian Federal Police (AFP)
+    Canada - Royal Canadian Mounted Police (RCMP)
+    Italy - Servizio per la Cooperazione Internazionale di Polizia (SCIP)
+    Spain - Comisaría General de Policía Judicial
+    China - Ministry of Public Security (MPS)
+    Russia - Ministry of Internal Affairs (MVD)
+    Brazil - Polícia Federal (DPF)
+    India - Central Bureau of Investigation (CBI)
+    South Korea - Korean National Police Agency (KNPA)
+    Mexico - Agencia de Investigación Criminal (AIC)
+    Netherlands - National Criminal Investigation Department (NCID)
+    Switzerland - Swiss Federal Criminal Police (FCP)
+    Belgium - Federal Police (FEDPOL)
+    Sweden - Swedish Police Authority (SPA)
+    Norway - National Criminal Investigation Service (Kripos)
+    Argentina - Policía Federal Argentina (PFA)
+    Turkey - Turkish National Police (TNP)
+    South Africa - South African Police Service (SAPS)
+    Indonesia - Indonesian National Police (POLRI)
+    Poland - Central Bureau of Investigation (CBŚ)
+    Austria - Bundeskriminalamt (BK)
+    Thailand - Royal Thai Police (RTP)
+    Malaysia - Royal Malaysia Police (RMP)
+    Colombia - Dirección de Investigación Criminal e Interpol (DIJIN)
+    Denmark - National Police (Rigspolitiet)
+    Finland - National Bureau of Investigation (NBI)
+    Portugal - Polícia Judiciária (PJ)
+    Greece - Hellenic Police (Ελληνική Αστυνομία)
+    Czech Republic - National Unit for Combating Organized Crime (NCOZ)
+    Hungary - National Bureau of Investigation (NNI)
+    New Zealand - New Zealand Police (NZP)
+    Israel - Israel Police (משטרת ישראל)
+    Ireland - Garda National Immigration Bureau (GNIB)
+    Singapore - Singapore Police Force (SPF)
+    Chile - Policía de Investigaciones de Chile (PDI)
+    Saudi Arabia - General Directorate of Public Security (GDPS)
+    United Arab Emirates - Dubai Police Force
+    Ukraine - National Police of Ukraine
+    Romania - Romanian Police (Poliția Română)
+    Vietnam - Ministry of Public Security (Bộ Công an)
+    Philippines - Philippine National Police (PNP)
+    Nigeria - Nigeria Police Force (NPF)
+    Egypt - Ministry of Interior (وزارة الداخلية)
+    Kenya - Directorate of Criminal Investigation (DCI)
+    Ghana - Criminal Investigation Department (CID)
